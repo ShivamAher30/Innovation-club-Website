@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "RedHatFont";
+  src: url("./assets/RedHatMono-VariableFont_wght.ttf") format("truetype");
+  font-weight: normal; /* or bold */
+  font-style: normal; /* or italic */
+}
